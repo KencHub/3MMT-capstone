@@ -1,4 +1,4 @@
-const API_BASE = "http://192.168.149.227:5000";
+const API_BASE = "https://362c-197-210-79-58.ngrok-free.app/";
 let token = null; // To store JWT token after login
 
 // Fetch API Helper
